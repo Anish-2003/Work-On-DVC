@@ -1,0 +1,4 @@
+[core]
+    remote = mydrive
+['remote "mydrive"']
+    url = gdrive://https://drive.google.com/drive/folders/FOLDER_ID
